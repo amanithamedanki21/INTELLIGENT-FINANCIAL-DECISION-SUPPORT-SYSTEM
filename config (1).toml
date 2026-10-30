@@ -1,0 +1,10 @@
+[theme]
+base = "dark"
+primaryColor = "#6366F1"
+backgroundColor = "#0B1020"
+secondaryBackgroundColor = "#121A33"
+textColor = "#E6EAF5"
+font = "sans serif"
+
+[server]
+showEmailPrompt = false

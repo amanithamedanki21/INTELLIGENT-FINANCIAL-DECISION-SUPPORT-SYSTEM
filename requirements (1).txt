@@ -1,0 +1,11 @@
+streamlit>=1.50
+pandas
+numpy
+scikit-learn
+imbalanced-learn
+xgboost
+shap
+joblib
+plotly
+openpyxl
+xlrd
